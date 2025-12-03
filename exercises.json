@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Push up",
+    "description": "Classic push-up exercise to work chest and triceps",
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "name": "Squat",
+    "description": "Bodyweight squat to strengthen legs",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "name": "Plank",
+    "description": "Core strengthening plank exercise",
+    "difficulty": "hard"
+  }
+]
